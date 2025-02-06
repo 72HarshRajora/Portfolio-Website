@@ -216,8 +216,12 @@
     article .cards .card-container .card .front .hold {
         font-size: 8px;
         bottom: 16px;
-      }
+    }
 
+    article .cards .card-container .card .back {
+        font-size: 10px;
+    }
+    
     main article .projects .project {
         margin: 8px auto;
         width: 330px;
