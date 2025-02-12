@@ -191,6 +191,7 @@ label .menu{
     width: 40px;
     object-fit: contain;
     position: fixed;
+    z-index: 4;
     top: 28px;
     right: 28px;
     transition: all 0.4s;
