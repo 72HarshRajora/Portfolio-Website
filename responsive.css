@@ -242,6 +242,12 @@
         margin-top: -60px;
     }
 
+    @keyframes slide {
+        100% {
+            top: -452px;
+        }
+    }
+
     main article .summary {
         padding: 12px 96px;
     }
