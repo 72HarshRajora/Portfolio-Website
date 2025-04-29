@@ -675,7 +675,7 @@ article .summary {
     font-family: "Poppins", serif;
     line-height: 36px;
     color: white;
-    width: 100vw;
+    width: 100%;
     box-sizing: border-box;
     padding: 12px 140px;
     text-align: justify;
